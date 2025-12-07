@@ -16,15 +16,18 @@ ENV/
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
 
+!data/*.dvc
+!data/data_raw/*.dvc
+
 # ----------------------------
 # Data files
 # ----------------------------
 # Raw and processed datasets
-data_raw/
- *.csv
- *.tsv
- *.json
- *.txt
+# data_raw/
+*.csv
+#  *.tsv
+#  *.json
+#  *.txt
 
 # ----------------------------
 # Logs
