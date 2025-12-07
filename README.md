@@ -26,7 +26,7 @@ tenxweek-3/
 ├── README.md                  
 ├── requirements.txt           # Python dependencies
 ├── .gitignore
-├── data/
+├── visualizations/
 ├── data_raw/
 ├── notebooks/
 ├── src/
