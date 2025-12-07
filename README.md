@@ -39,6 +39,10 @@ tenxweek-3/
 ├── data_raw/
 ├── notebooks/
 ├── src/
+    ├───data/
+        ├───load_data.py
+    ├───eda.py
+    ├───preprocess.py
 ├── experiments/
 ├── .dvc/
 ├── environment.yml
