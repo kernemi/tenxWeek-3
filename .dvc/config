@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = ../../DVClocalStorage/acis_dvc_storage
