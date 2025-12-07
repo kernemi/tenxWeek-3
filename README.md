@@ -4,6 +4,7 @@
 This repository contains all code, data, and configuration files for:
 
 Task 1: Environment Setup, Data Collection, and Preprocessing
+
 Task 2: Establishing a reproducible, auditable data pipeline using Data Version Control (DVC), including data tracking, pipeline management, and experiment versioning
 
 The project supports scalable analytics and predictive modeling for insurance risk analysis.
